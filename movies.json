@@ -1,0 +1,68 @@
+{
+  "movies": [{
+    "title" : "MAD MAX FURY : ROAD",
+    "sub" :"Action , Adventure , Sci-Fi",
+    "rate" :"8.3",
+     "movie_number" : "1",
+    "main_characters" : ["Tom Hardy", "Charlize Theron", "Nicholas Hoult", "Hugh Keays-Byrne", "Rosie Huntington-Whiteley", "Riley Keough","Zoë Kravitz","Abbey Lee","Courtney Eaton","Josh Helman","Nathan Jones"],
+    "description" : "A woman rebels against a tyrannical ruler in postapocalyptic Australia in search for her home-land with the help of a group of female prisoners, a psychotic worshipper, and a drifter named Max.The primary theme of Mad Max: Fury Road is survival. As the underlying goal for Max, the theme of staying alive has been carried over from the previous installments of the series that also highlight issues such as ecological collapse and moral decadence",
+    "poster" : "mad-max3.jpg",
+    "hero_image" : "mad-maxposter.jpg"
+  },
+
+  {
+    "title" : "THE HUNGER GAMES : MOCKINGJAY PART I",
+     "sub" :"Action , Sci-Fi , Thriller",
+     "rate" :"7.2",
+    "movie_number" : "2",
+    "main_characters" : ["Jennifer Lawrence", "Josh Hutcherson", "Count Dooku", "Liam Hemsworth", "Woody Harrelson", "Elizabeth Banks", "Julianne Moore", "Philip Seymour Hoffman","Jeffrey Wright","Stanley Tucci","Donald Sutherland ","Willow Shields","Sam Claflin"],
+    "description" : "Katniss Everdeen is in District 13 after she shatters the games forever. Under the leadership of President Coin and the advice of her trusted friends, Katniss spreads her wings as she fights to save Peeta and a nation moved by her courage.After being rescued from the destroyed arena in the 75th Hunger Games, Katniss Everdeen, along with fellow tributes Beetee and Finnick Odair, are taken to District 13, now an underground district isolated from Panem that has been spearheading the rebellion. There she is reunited with her mother and sister Prim. While recuperating, she is introduced to President Alma Coin, the rebel leader, and is told that her actions in the arena sparked riots and strikes against the Capitol. Coin asks her to become the Mockingjay—the symbol of the rebellion—as part of their hearts and minds strategy but Katniss declines. After seeing how Peeta is being manipulated by Capitol state television to quell the rebellion, Katniss reluctantly agrees to become Coin's Mockingjay on the condition that Peeta and the other captured victors will be rescued and pardoned at the earliest opportunity.",
+    "poster" : "hungergamesposter5.jpg",
+    "hero_image" : "hungergamesposter2.png"
+  },
+
+  {
+    "title" : "JURASSIC WORLD",
+    "sub" :"Action , Adventure , Sci-Fi",
+    "rate" :"7.4",
+    "movie_number" : "3",
+    "main_characters" : ["Chris Pratt", "Bryce Dallas Howard", "Vincent D'Onofrio", "Ty Simpkins", "Nick Robinson", "B. D. Wong", "Irrfan Khan", "Jake Johnson","Lauren Lapkus","Brian Tee","Katie McGrath","Judy Greer","Andy Buckley","Eric Edelstein","Jimmy Buffett"],
+    "description" : "A new theme park, built on the original site of Jurassic Park, creates a genetically modified hybrid dinosaur, which escapes containment and goes on a killing spree.Twenty-two years after Jurassic Park was overrun by cloned dinosaurs on the Central American island of Isla Nublar, a new park, Jurassic World, has become a successful resort. The Masrani Global Corporation – owner of the genetics company InGen that creates the dinosaurs – has been operating the park on the same island for the past ten years. Brothers Zach and Gray Mitchell visit Jurassic World to see their aunt Claire Dearing, the park's operations manager. Claire, a busy workaholic, assigns her assistant to be their guide, but the boys evade her and explore the resort on their own.",
+    "poster" : "jurassicworld3.jpg",
+    "hero_image" : "jurassicworldposter2.jpg"
+  },
+
+  {
+    "title" : "EVEREST : 2015 ",
+   "sub" :" Adventure , Drama , Thriller",
+   "rate" :"6.4",
+    "movie_number" : "4",
+    "main_characters" : ["Jason Clarke", "Jake Gyllenhaal", "Josh Brolin", "Robin Wright", "John Hawkes", "Keira Knightley", "Michael Kelly", "Emily Watson","Thomas Wright","Martin Henderson ","Elizabeth Debicki","Naoko Mori"],
+    "description" : "A climbing expedition on Mt. Everest is devastated by a severe snow storm.In March 1996, several commercial expeditions arrive at Mount Everest base camp to prepare to climb the summit. Rob Hall, who first popularized guided Everest climbs, leads Adventure Consultants. Scott Fischer is the chief guide for competitor Mountain Madness. Rob's clients include Beck Weathers, an experienced climber; Doug Hansen, a former mailman pursuing his dream; and climbing veteran Yasuko Namba, who hopes to complete her final Seven Summits climb. Outside Magazine journalist Jon Krakauer also accompanies Rob's group. Helen Wilton manages Rob's base camp.",
+    "poster" : "everest2.jpg",
+    "hero_image" : "everestposter3.jpg"
+  },
+
+  {
+    "title" : "INSURGENT",
+    "sub" :" Adventure , Sci-Fi , Thriller",
+    "rate" :"8.3",
+    "movie_number" : "5",
+    "main_characters" : ["Shailene Woodley", "Theo James", "Kate Winslet", "Miles Teller", "Ansel Elgort", "Jai Courtney", "Octavia Spencer", "Ray Stevenson", "Zoë Kravitz","Maggie Q"],
+    "description" : "Beatrice Prior must confront her inner demons and continue her fight against a powerful alliance which threatens to tear her society apart with the help from others on her side.Five days after the assault on the Abnegation faction by Erudite leader Jeanine (Kate Winslet) and her mind-controlled Dauntless soldiers, Jeanine has declared martial law and that the Divergents – those with the qualities of multiple factions – and those allied with them are the enemy. Among the Abnegation wreckage, Dauntless leader Eric (Jai Courtney) and his platoon recover a five-sided box: each side has a faction symbol. Jeanine presumes it contains data from the city's founders and the means to end the Divergence problem. As only a Divergent is capable of opening the box, she orders the capture of all Divergents.",
+    "poster" : "insurgent1.jpg",
+    "hero_image" : "insurgentposter.jpg"
+  },
+
+  {
+    "title" : "SICARIO : 2015 ",
+    "sub" :"Action , Crime , Drama",
+    "rate" :"8",
+    "movie_number" : "6",
+    "main_characters" : ["Emily Blunt", "Benicio del Toro", "Josh Brolin ", "Daniel Kaluuya", "Maximiliano Hernández", "Victor Garber", "Jon Bernthal", "Jeffrey Donovan"],
+    "description" : "An idealistic FBI agent is enlisted by a government task force to aid in the escalating war against drugs at the border area between the U.S. and Mexico.In Chandler, Arizona, FBI Agents Kate Macer (Emily Blunt) and Reggie Wayne (Daniel Kaluuya) lead a SWAT raid of a suspected Mexican cartel safehouse. Inside, the team discovers dozens of decaying corpses and a booby trap, which explodes and kills two police officers. Following the raid, Kate's boss, Dave Jennings (Victor Garber), recommends her for a joint DOD-CIA task force, overseen by CIA officer Matt Graver (Josh Brolin), to apprehend the Sonora Cartel lieutenant Manuel Díaz, the man responsible for the bombing.",
+    "poster" : "Sicario.jpg",
+    "hero_image" : "sicarioposter4.png"
+  }]
+
+}

@@ -1,0 +1,94 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+   <% include partials/head.ejs %>
+
+ <% include partials/header.ejs %>
+  
+  </head>
+  <body>
+
+  <div id="hero-image">
+<img id="image" src='../images/imdb.png'>
+ 
+  <div id="hero-title">
+ 
+
+ 
+   
+   <ul>
+
+    <li><a data-toggle="tab" href="#IN THEATERS" >INTHEATERS</a></li>
+    <li><a data-toggle="tab" href="#COMING SOON">COMINGSOON</a></li>
+    <li><a data-toggle="tab" href="#CHARTS" >CHARTS</a></li>
+    <li><a data-toggle="tab" href="#TV SERIES" >TVSERIES</a></li>
+    <li><a data-toggle="tab" href="#TRAILERS" >TRAILERS</a></li>
+    <li><a data-toggle="tab" href="#MORE" >MORE</a></li>
+    <li> <button id="button" type="button" class="btn btn-info btn-sm">
+          <span class="glyphicon glyphicon-star"></span>179 
+        </button></li>
+
+
+    </ul>
+   
+
+
+ 
+  </div>
+</div>
+  </div>
+  <br><br>
+ 
+ <p id="rating">IMDb Rating </p>
+
+ <br>
+
+
+ <i id="menu1"  class="fa">&#xf039;</i>
+<i id="tab"  class="fa">&#xf00a;</i>
+
+
+
+
+  <input id="range" type="range">
+
+
+   <br><br>
+
+<div id="posters-wrapper" class="content-padding clearfix">
+
+
+
+
+
+  <% for(var i = 0 ; i < movies.length ; i++) { %>
+
+   <div class="poster">
+   <a href="/movie_imdb/<%= movies[i].movie_number %>">
+  <img src="/images/<%= movies[i].poster %>" class="img-responsive">
+
+  <div class="poster-info-overlay">
+  <h3><%= movies[i].title %></h3> 
+  <h6><%= movies[i].sub %></h6>
+ <strong id="rate"> <span class="glyphicon glyphicon-heart"></span>  <%= movies[i].rate %></strong>
+  <h4>View More <i class="fa fa-arrow-right"></i></h4>
+  </div>
+  </a>
+
+</div>
+ <% } %>
+
+
+ </div>
+ <br><br><br><br>
+
+
+ <i id="circle" class="fa fa-circle"></i> 
+
+ <br><br><br><br>
+
+    
+     <% include partials/footer.ejs %>
+   <% include partials/script.ejs %>
+  </body>
+</html>
